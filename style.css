@@ -58,7 +58,7 @@ a{
 .main-logo{
   height: 600px;
   /*トプ画*/
-  background-image: url(pictures/9.JPG);
+  background-image: url(pictures/9.);
   background-size: cover;
   background-position: 50% 50%;
 }
